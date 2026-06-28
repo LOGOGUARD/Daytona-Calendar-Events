@@ -11,7 +11,7 @@ SUMMARY:O'Riley Auto Parts Series
 LOCATION:Daytona International Speedway, Daytona Beach, FL
 DESCRIPTION:NASCAR Cup Series Regular Season Finale
 BEGIN:VALARM
-TRIGGER:-P24H
+TRIGGER:-PT24H
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
