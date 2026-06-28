@@ -6,7 +6,7 @@ BEGIN:VEVENT
 UID:cokezero400-20260829@example.com
 DTSTAMP:20260625T000000Z
 DTSTART;TZID=America/New_York:20260828T073000
-DTEND;TZID=America/New_York:2026028T233000
+DTEND;TZID=America/New_York:20260828T233000
 SUMMARY:O'Riley Auto Parts Serie
 LOCATION:Daytona International Speedway, Daytona Beach, FL
 DESCRIPTION:NASCAR Cup Series Regular Season Finale
