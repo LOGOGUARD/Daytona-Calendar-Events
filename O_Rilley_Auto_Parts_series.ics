@@ -9,7 +9,7 @@ DTSTART;TZID=America/New_York:20260828T073000
 DTEND;TZID=America/New_York:20260828T233000
 SUMMARY:LOGO GUARD for O'Rilley Auto Parts Series
 LOCATION:Daytona International Speedway, Daytona Beach, FL
-DESCRIPTION:NASCAR Cup Series Regular Season Finale...... RSVP Click link... https://forms.gle/Ah98opMygyQzxPVb9
+DESCRIPTION:NASCAR Cup Series Regular Season Finale...... RSVP Click link https://forms.gle/Ah98opMygyQzxPVb9
 TRIGGER:-PT12H
 ACTION:DISPLAY
 DESCRIPTION:Reminder
