@@ -9,7 +9,7 @@ DTSTART;TZID=America/New_York:20260829T073000
 DTEND;TZID=America/New_York:20260829T233000
 SUMMARY:LOGO GUARD for Coke Zero Sugar 400
 LOCATION:Daytona International Speedway, Daytona Beach, FL
-DESCRIPTION:NASCAR Cup Series Regular Season Finale
+DESCRIPTION:NASCAR Cup Series Regular Season Finale https://docs.google.com/forms/d/e/1FAIpQLSe9GFqkw1ZtVAq6I63Yyjc_rA-bIiLA7JVh5cR7-fg3-T1tJA/viewform?usp=sharing&ouid=109120126153291024172
 BEGIN:VALARM
 TRIGGER:-PT12H
 ACTION:DISPLAY
