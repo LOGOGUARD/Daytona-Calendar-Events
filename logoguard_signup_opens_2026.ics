@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Logo Guard//Volunteer Sign-Up 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:logoguard-2026-signup-opens@hotmail.com
+DTSTAMP:20261004T000000Z
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Logo Guard - 2027 Volunteer Sign-Up Form Opens!
+LOCATION:Online / Google Sites
+ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
+DESCRIPTION:The official sign-up form opens today for the 2027 Logo Guard volunteer season at Daytona International Speedway. Secure your slots!
+BEGIN:VALARM
+TRIGGER:-P7DT15H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Logo Guard volunteer sign-up form opens in exactly one week!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15H0M0S
+ACTION:DISPLAY
+DESCRIPTION:The Logo Guard volunteer sign-up form opens TODAY at 9:00 AM!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
+
+
