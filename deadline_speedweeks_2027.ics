@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Logo Guard//Speedweeks Deadline 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:logoguard-2027-speedweeks-deadline@hotmail.com
+DTSTAMP:20261004T000000Z
+DTSTART;TZID=America/New_York:20270201T073000
+DTEND;TZID=America/New_York:20270201T233000
+SUMMARY:LOGO GUARD - 2027 Speedweeks Sign-Up Deadline
+LOCATION:Daytona International Speedway, Daytona Beach, FL
+ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
+DESCRIPTION:Final deadline to sign up for volunteer slots for the Speedweeks event schedule (Clash, Duels, Truck, ARCA, Daytona 500).
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Logo Guard Reminder - Speedweeks Sign-Up Deadline is TOMORROW!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Logo Guard Reminder - Speedweeks Sign-Up Deadline is in 1 HOUR!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

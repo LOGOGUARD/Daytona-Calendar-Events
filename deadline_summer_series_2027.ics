@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Logo Guard//Summer Series Deadline 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:logoguard-2027-summer-deadline@hotmail.com
+DTSTAMP:20261004T000000Z
+DTSTART;TZID=America/New_York:20270813T073000
+DTEND;TZID=America/New_York:20270813T233000
+SUMMARY:LOGO GUARD - 2027 Summer Series Sign-Up Deadline
+LOCATION:Daytona International Speedway, Daytona Beach, FL
+ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
+DESCRIPTION:Final deadline to sign up for volunteer slots for the Summer Series (Winn-Dixie 250 and Coke Zero Sugar 400).
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Logo Guard Reminder - Summer Series Sign-Up Deadline is TOMORROW!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Logo Guard Reminder - Summer Series Sign-Up Deadline is in 1 HOUR!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
+
