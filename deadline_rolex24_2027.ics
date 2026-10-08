@@ -13,7 +13,7 @@ LOCATION:Daytona International Speedway, Daytona Beach, FL
 ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
 DESCRIPTION:Final deadline to sign up for volunteer slots for the BMW Challenge and Rolex 24 races.
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-P1W
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard Reminder - Rolex 24 Sign-Up Deadline is TOMORROW!
 END:VALARM
