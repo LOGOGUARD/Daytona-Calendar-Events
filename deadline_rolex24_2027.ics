@@ -7,13 +7,13 @@ BEGIN:VEVENT
 UID:logoguard-2027-rolex-deadline@hotmail.com
 DTSTAMP:20261004T000000Z
 DTSTART;TZID=America/New_York:20270115T073000
-DTEND;TZID=America/New_York:20270115T09000
+DTEND;TZID=America/New_York:20270115T090000
 SUMMARY:LOGO GUARD - 2027 Rolex 24 Weekend Sign-Up Deadline
 LOCATION:Daytona International Speedway, Daytona Beach, FL
 ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
-DESCRIPTION:Final deadline to sign up for volunteer slots for the BMW Challenge and Rolex 24 races.
+DESCRIPTION:Final deadline at 9AM to sign up for volunteer slots for the BMW Challenge and Rolex 24 races.
 BEGIN:VALARM
-TRIGGER:-PT0S
+TRIGGER:-P1D
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard Reminder - Rolex 24 Sign-Up Deadline is TOMORROW!
 END:VALARM
