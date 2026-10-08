@@ -19,7 +19,7 @@ ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for Rolex 24 weekend starts in one week!
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-P1DT15H0M0S
+TRIGGER:-P1DT16H30M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for BMW M Endurance Challenge tomorrow!
 END:VALARM
