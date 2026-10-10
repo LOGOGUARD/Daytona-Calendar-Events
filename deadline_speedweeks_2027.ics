@@ -13,12 +13,12 @@ LOCATION:Daytona International Speedway, Daytona Beach, FL
 ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
 DESCRIPTION:Final deadline at 9am to sign up for volunteer slots for the Speedweeks event schedule (Clash, Duels, Truck, ARCA, Daytona 500).
 BEGIN:VALARM
-TRIGGER:-P1D
+TRIGGER:-P1DT0H0M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard Reminder - Speedweeks Sign-Up Deadline is TOMORROW!
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT1H
+TRIGGER:-PT1H0M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard Reminder - Speedweeks Sign-Up Deadline is in 1 HOUR!
 END:VALARM
