@@ -7,7 +7,6 @@ BEGIN:VEVENT
 UID:logoguard-2027-rolex-deadline@hotmail.com
 DTSTART;TZID=America/New_York:20270115T073000
 DTEND;TZID=America/New_York:20270115T090000
-DTEND;VALUE=DATE:20270130
 SUMMARY:LOGO GUARD - 2027 Rolex 24 Weekend Sign-Up Deadline
 LOCATION:Daytona International Speedway, Daytona Beach, FL
 ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
