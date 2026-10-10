@@ -12,7 +12,7 @@ DTEND;VALUE=DATE:20270131
 SUMMARY:Logo Guard - ROLEX 24
 LOCATION:Daytona International Speedway, Daytona Beach, FL
 ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
-DESCRIPTION:Volunteer Duty - Rolex 24 Weekend Main Race.
+DESCRIPTION:Volunteer Duty - Rolex 24 Weekend Main Race.1
 BEGIN:VALARM
 TRIGGER:-P8DT15H0M0S
 ACTION:DISPLAY
@@ -24,7 +24,7 @@ ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for ROLEX 24 tomorrow!
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT15H0M0S
+TRIGGER:PT06H0M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for ROLEX 24 today!
 END:VALARM
