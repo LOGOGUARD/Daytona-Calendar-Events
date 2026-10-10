@@ -14,7 +14,7 @@ LOCATION:Daytona International Speedway, Daytona Beach, FL
 ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
 DESCRIPTION:Volunteer Duty - Rolex 24 Weekend. Meeting @ 11am
 BEGIN:VALARM
-TRIGGER:-P8DT15H0M0S
+TRIGGER:-PT06H0M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for BMW M Endurance Challenge today!
 END:VALARM
