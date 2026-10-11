@@ -24,9 +24,9 @@ ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for ROLEX 24 post-race tomorrow!
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT15H0M0S
+TRIGGER:-PT25H0M0S
 ACTION:DISPLAY
-DESCRIPTION:Logo Guard volunteer for ROLEX 24 post-race today!
+DESCRIPTION:Logo Guard volunteer for ROLEX 24 post-race  at 1pm today!
 END:VALARM
 END:VEVENT
 END:VCALENDAR
