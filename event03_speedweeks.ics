@@ -38,7 +38,7 @@ DTEND;VALUE=DATE:20270219
 SUMMARY:Logo Guard - Duel at Daytona
 LOCATION:Daytona International Speedway, Daytona Beach, FL
 ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
-DESCRIPTION:Volunteer Duty - Speedweeks Qualifying Duels.
+DESCRIPTION:Volunteer Duty - Speedweeks - Duels.
 BEGIN:VALARM
 TRIGGER:-P11DT15H0M0S
 ACTION:DISPLAY
@@ -50,7 +50,7 @@ ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for Duel at Daytona tomorrow!
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT15H0M0S
+TRIGGER:PT16H30M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for Duel at Daytona today!
 END:VALARM
@@ -76,7 +76,7 @@ ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for Truck Series Race tomorrow!
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT15H0M0S
+TRIGGER:-PT17H0M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for Truck Series Race today!
 END:VALARM
@@ -102,7 +102,7 @@ ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for O'Reilly Auto Parts Series / ARCA tomorrow!
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT15H0M0S
+TRIGGER:PT14H15M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for O'Reilly Auto Parts Series / ARCA today!
 END:VALARM
@@ -128,7 +128,7 @@ ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for Daytona 500 tomorrow!
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT19H0M0S
+TRIGGER:PT07H30M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for Daytona 500 TODAY! Early Shift 5AM.
 END:VALARM
