@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:logoguard-2027-speedweeks-deadline@hotmail.com
 DTSTAMP:20261004T000000Z
-DTSTART;TZID=America/New_York:20270201T073000
+DTSTART;TZID=America/New_York:20270201T080000
 DTEND;TZID=America/New_York:20270201T090000
 SUMMARY:LOGO GUARD - 2027 Speedweeks Sign-Up Deadline at 9am.
 LOCATION:Daytona International Speedway, Daytona Beach, FL
