@@ -66,11 +66,6 @@ LOCATION:Daytona International Speedway, Daytona Beach, FL
 ORGANIZER;CN=Logo Guard:MAILTO:logoguard2023@hotmail.com
 DESCRIPTION:Volunteer Duty - Rolex 24 Weekend Post Race.
 BEGIN:VALARM
-TRIGGER:-P9DT0H0M0S
-ACTION:DISPLAY
-DESCRIPTION:Logo Guard volunteer for Rolex 24 weekend starts in one week!
-END:VALARM
-BEGIN:VALARM
 TRIGGER:-P1DT0H0M0S
 ACTION:DISPLAY
 DESCRIPTION:Logo Guard volunteer for ROLEX 24 post-race tomorrow!
@@ -78,7 +73,7 @@ END:VALARM
 BEGIN:VALARM
 TRIGGER:PT12H0M0S
 ACTION:DISPLAY
-DESCRIPTION:Logo Guard volunteer for ROLEX 24 post-race today!
+DESCRIPTION:Logo Guard volunteer for ROLEX 24 post-race Meeting at 1pm today!
 END:VALARM
 END:VEVENT
 END:VCALENDAR
